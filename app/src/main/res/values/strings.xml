@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Marketplace Deal Finder</string>
+    <string name="filter_product_type">Product Type</string>
+    <string name="filter_price_range">Price Range</string>
+    <string name="filter_distance">Distance (km)</string>
+    <string name="start_scan">Start Scanning</string>
+    <string name="number_of_posts">Number of Posts</string>
+    <string name="good_deals">Good Deals Found</string>
+    <string name="no_deals_found">No good deals found. Try adjusting your filters.</string>
+    <string name="price">Price:</string>
+    <string name="distance">Distance:</string>
+    <string name="view_deal">View Deal</string>
+    <string name="save_deal">Save Deal</string>
+    <string name="scanning">Scanning...</string>
+    <string name="scan_complete">Scan Complete</string>
+</resources>
